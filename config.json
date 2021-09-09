@@ -1,0 +1,11 @@
+{
+    "ClientID": "client ID must look like this 12904832094802",
+    "state": "Some type of text which appears on ur presence",
+    "details": "Some type of details which appears on ur presence",
+    "buttonLabel": "Name of the button",
+    "buttonLink": "Link which redirects when someone clicks on it",
+    "largeImageKey": "type the file name here only please do not include .jpg or .png or anything like that",
+    "largeImageText": "text appears when someone hovers over the Large Icon",
+    "smallImageKey": "Small image icon file name",
+    "smallImageText": "text appears when someone hovers over the Small Icon"
+}
