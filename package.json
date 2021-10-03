@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Nick135ops/RiesRichPresence/issues"
   },
-  "homepage": "https://github.com/Nick135ops/RiesRichPresence#readme"
+  "homepage": "https://github.com/Nick135ops/RiesRichPresence#readme",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  }
 }
