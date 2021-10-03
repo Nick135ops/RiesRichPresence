@@ -1,11 +1,12 @@
 # RiesRichPresence
+
 *I called it RiesRichPresence because I made this especially for my friend Rie*.
 
 # Read below on how to get started.
 
 - In order to get started, **you will be needing to few things to set up** your Rich Presense Client ( RPC ).
 
-> **Note**: You're going to be needing to install [node.js](https://nodejs.org/en/) on your Windows/Mac, after you're done install all the files type `npm install discord-rpc` to install the RPC client files and then move on to the steps given below.
+> **Note**: You're going to be needing to install [node.js](https://nodejs.org/en/) on your Windows/Mac.
 
 ## 1. `Client ID`
 
@@ -18,7 +19,7 @@
 - Attachment:    
 ![Copy Application ID](https://media.discordapp.net/attachments/892820309269434390/893882046441730108/unknown.png?width=122&height=65 "Click on Copy button")
 
-- Your `config.json` file should look like this 
+- Your `config.json` file should look like this
 ![config.json file](https://media.discordapp.net/attachments/892820309269434390/893887797289713704/unknown.png?width=313&height=164 "Paste your Cliend ID here")
 
 ## 2. `Setting up text on your RPC & using it`
@@ -103,6 +104,8 @@
 
 + + Hovered text example 2: 
 ![Hovered text example](https://media.discordapp.net/attachments/892820309269434390/894269598822723604/unknown.png?width=170&height=62)
+
++ + Finally the last step, lauch your RPC, if you're on Mac run the `launch-mac.sh` file and if you're on Windows run the `launch-windows.bat` file.
 
 > Note: *If your RPC doesn't show up images just make sure that they show up on your Rich Presence tab after adding the images*.
 
