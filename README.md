@@ -120,4 +120,4 @@
 
 > + [Discord Server](https://discord.gg/XuAC6Uawam)
 
-> + [My Bot](https://discord.com/api/oauth2/authorize?client_id=843116344957730817&permissions=261993005047&scope=bot)
+> + Check out my bots: [Kallo#5542](https://discord.com/api/oauth2/authorize?client_id=843116344957730817&permissions=261993005047&scope=bot) & [xia#1476](https://discord.com/api/oauth2/authorize?client_id=925391650652573706&permissions=8&scope=bot%20applications.commands)
