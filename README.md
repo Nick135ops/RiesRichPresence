@@ -25,10 +25,14 @@
 
 + Remember, the name of your Application on [Developer Portal](https://discord.com/developers/applications) will be named as your Rich Presence.
 
-- Attachment:    
+- Attachment:
+
+
 ![Copy Application ID](https://media.discordapp.net/attachments/892820309269434390/893882046441730108/unknown.png?width=122&height=65 "Click on Copy button")
 
 - Your `config.json` file should look like this
+
+
 ![config.json file](https://media.discordapp.net/attachments/892820309269434390/893887797289713704/unknown.png?width=313&height=164 "Paste your Cliend ID here")
 
 ## 2. `Setting up text on your RPC`
@@ -111,7 +115,7 @@
 
 - For setting Large Image Icon/Small Image Icon and the text to show when mouse is hovered on it, refer to attachment below.
 
-  + `config.json`:
+  + `config.json`:  
 ![Large Image setup](https://media.discordapp.net/attachments/892820309269434390/894265053610651770/unknown.png?width=329&height=167 "Large Image setup")
 
   + Hovered text example 1:    
